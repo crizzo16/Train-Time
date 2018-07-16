@@ -1,0 +1,21 @@
+.header {
+    background: black;
+    color: white;
+    text-align: center;
+    height: 200px;
+    padding: 40px;
+}
+
+.card {
+    margin: 40px;
+
+}
+
+.card-header {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+th {
+    font-weight: bold;
+}
